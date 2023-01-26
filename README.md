@@ -4,9 +4,16 @@ a fast-paced couse fot getting up to speed with Git and Github.
 
 - Hi there this lines of code was wrote for me in the remote repo... XD
 
-## CLI commun comants
+## CLI commun comants and TRICKS
 
+#add
 git add and commit = git commit -a -m "mesagge"
+
+#checkuot
+
+git checkuot -b "name the new branch"
+
+git checkuot - : return to the previusly branch
 
 ## Quiz hard questios
 
