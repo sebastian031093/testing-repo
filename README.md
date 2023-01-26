@@ -12,3 +12,5 @@ git add and commit = git commit -a -m "mesagge"
 
 - Which term describes the changes between the working tree and previously comitted files?
   R: DIFF
+
+JUST WORKING IN A FEACTURE.
