@@ -8,31 +8,31 @@ a fast-paced couse fot getting up to speed with Git and Github.
 
 ### add
 
-git add and commit = git commit -a -m "mesagge"
+- git add and commit = git commit -a -m "mesagge"
 
 ## remote
 
-git remote
-git remote add origin [url remote repo]
-git remote
-git remote -v
-git remote show origin
+- git remote
+- git remote add origin [url remote repo]
+- git remote
+- git remote -v
+- git remote show origin
 
 ## merge (complicared)
 
-git fetch donwload change from remote repo
-git merge origin/master marching changes whit remote repo
+- git fetch donwload change from remote repo
+- git merge origin/master marching changes whit remote repo
 
 ## pull
 
-convine fetch + merge
-git pull
+- convine fetch + merge
+- git pull
 
 ### checkuot
 
-git checkuot -b "name the new branch"
+- git checkuot -b "name the new branch"
 
-git checkuot - : return to the previusly branch
+- git checkuot - : return to the previusly branch
 
 ## Quiz hard questios
 
